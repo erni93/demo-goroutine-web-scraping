@@ -1,4 +1,4 @@
-# Gorutines with Web scraping
+# Goroutines with Web scraping
 
 ## Demo
 
