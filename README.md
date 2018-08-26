@@ -20,13 +20,13 @@ Phrases obtained will be saved in an xml file, when the scraper finished.
         <word>
             <value>hello</value>
             <example>
-            <english>I therefore believe that a standardised portal along amazon lines -  partly, but not exclusively, computer-driven and greeting  people with the words, Hello, you are now at our Brussels premises. </english>
-            <spanish>Por ello, creo que un portal normalizado similar a amazon -que funcione en parte, pero no  exclusivamente, por ordenador y que salude a las  personas con las palabras «Hola, te encuentras en nuestras oficinas de Bruselas. </spanish>
-        </example>
-        <example>
-            <english>Hello, Just a word to let you know how satisfied I am with my internet banking account. </english>
-            <spanish>Hola: Sólo unas palabras para hacerles saber lo satisfecho que estoy con mi cuenta en la banca por internet. </spanish>
-        </example>
+                <english>I therefore believe that a standardised portal along amazon lines -  partly, but not exclusively, computer-driven and greeting  people with the words, Hello, you are now at our Brussels premises. </english>
+                <spanish>Por ello, creo que un portal normalizado similar a amazon -que funcione en parte, pero no  exclusivamente, por ordenador y que salude a las  personas con las palabras «Hola, te encuentras en nuestras oficinas de Bruselas. </spanish>
+            </example>
+            <example>
+                <english>Hello, Just a word to let you know how satisfied I am with my internet banking account. </english>
+                <spanish>Hola: Sólo unas palabras para hacerles saber lo satisfecho que estoy con mi cuenta en la banca por internet. </spanish>
+            </example>
         </word>
     </words>
 </dictionary>
